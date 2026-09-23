@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+private/
+esencia-costes/
+esencia-costes-mvp.zip
+output/
+.playwright-cli/
+*.local
+supabase/.temp/
